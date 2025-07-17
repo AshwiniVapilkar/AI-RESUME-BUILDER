@@ -36,12 +36,12 @@ An AI-powered resume builder that allows users to generate, preview, and downloa
 ## ⚙️ Installation
 
 ### Frontend
-git clone https://github.com/yourusername/ai-resume-builder.git
-cd ai-resume-builder
-npm install
-npm run dev
+- git clone https://github.com/yourusername/ai-resume-builder.git
+- cd ai-resume-builder
+- npm install
+- npm run dev
 
 ### Backend
-cd resumellow/Strapi Backend/resumellow
-npm install
-npm run develop
+- cd resumellow/Strapi Backend/resumellow
+- npm install
+- npm run develop
