@@ -1,12 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+In this project, React (with Vite) is used to build a fast, interactive user interface, allowing users to create resumes smoothly. Tailwind CSS handles styling, making the layout modern and responsive. Clerk manages user authentication, enabling secure sign-up and login features. The app integrates an AI service to automatically generate resume summaries based on user input. For backend storage, Strapi CMS is used to save and manage resume data. Together, these technologies create a full-stack, AI-enhanced resume builder that’s easy to use and deploy online.
